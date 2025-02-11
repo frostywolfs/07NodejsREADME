@@ -1,20 +1,20 @@
-# fsda
+# 07READMEGenerator
   ![MIT License](https://img.shields.io/badge/license-MIT-green)
 
   ## Description
-  fdsa
+  To swiftly make a professional README
   
   ## Installation
-  fasd
+  n/a
   
   ## Usage
-  fdas
+  node index.js
   
   ## Contributing
-  fdsa
+  n/a
   
   ## Tests
-  fads
+  n/a
   
   ## License
 This project is licensed under the MIT License. See the [MIT License](https://opensource.org/licenses/MIT) for details.
