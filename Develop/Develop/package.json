@@ -1,0 +1,15 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "README Generator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "inquirer": "^10.1.4"
+  }
+}
